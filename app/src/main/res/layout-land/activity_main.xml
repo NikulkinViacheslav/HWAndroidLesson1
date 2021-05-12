@@ -10,7 +10,7 @@
     <TextView
         android:id="@+id/twRes"
         android:layout_width="match_parent"
-        android:layout_height="80dp"
+        android:layout_height="70dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
@@ -26,7 +26,7 @@
     <TextView
         android:id="@+id/twCalc"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="45dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
@@ -35,7 +35,6 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textColor="#fefefe"
         app:layout_constraintEnd_toEndOf="@+id/twRes"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/twRes"
         app:layout_constraintTop_toBottomOf="@+id/twRes" />
 
